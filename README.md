@@ -1,15 +1,11 @@
-Gaegane Group multi-page website
+Gaegane multipage site update.
 
-Image files to add in assets/images/:
-- logo-horizontal.png (official horizontal logo on white background)
-- logo-horizontal-white.png (official horizontal logo for black footer)
-- river-bedroom.jpg
-- river-outdoor.jpg
-- diedericks-near.jpg
-- house-africa.jpg
-- smith-cottage.jpg
-- team.jpg
-- construction-progress.jpg
-- open-plan-kitchen.jpg
+Replace the existing site files with these files.
+Keep your images inside assets/images/.
 
-
+Expected image names include:
+horizont-bg.png, logo.jpg, river-outdoor.jpg, river-bedroom.jpg, diedericks-near.jpg,
+house-africa-lounge.jpg, diedericks-progress-2.jpg, diedericks-near-2.jpg,
+house-africa-bedroom.jpg, river-kitchen.jpg, team.jpg, trench.jpg, river-lounge.jpg,
+diedericks-demo.jpg, diedericks-progress-1.jpg, diedericks-stairs.jpg, river-bath.jpg,
+river-twin.jpg
