@@ -12,4 +12,4 @@ Image files to add in assets/images/:
 - construction-progress.jpg
 - open-plan-kitchen.jpg
 
-Important: Use official logo files only. Do not recolour, distort, crop, rotate, or rearrange logo elements.
+
